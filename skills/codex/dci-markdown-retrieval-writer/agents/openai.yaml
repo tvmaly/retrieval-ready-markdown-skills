@@ -1,0 +1,4 @@
+interface:
+  display_name: "DCI Markdown Retrieval Writer"
+  short_description: "Optimize Markdown for DCI retrieval"
+  default_prompt: "Use $dci-markdown-retrieval-writer to create or revise Markdown so it is easy to find, inspect, verify, and cite with DCI."

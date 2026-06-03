@@ -95,7 +95,7 @@ Use the dci-markdown-retrieval-writer skill to rewrite docs/auth-login-notes.md 
 Ask Codex:
 
 ```text
-Use $dci-markdown-retrieval-writer to create a retrieval-ready acceptance test file for the DCI nanogo skill-system prerequisite work.
+Use $dci-markdown-retrieval-writer to create a retrieval-ready acceptance test file for the DCI  skill-system prerequisite work.
 ```
 
 Ask either agent:

@@ -1,0 +1,3 @@
+This generated skill package is provided for your use and modification.
+No third-party code is included except the generated Python checker in scripts/.
+Add your preferred project license before publishing the skill publicly.
